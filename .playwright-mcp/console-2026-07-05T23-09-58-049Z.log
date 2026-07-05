@@ -1,0 +1,198 @@
+[     912ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:20102
+[    1059ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5173/favicon.ico:0
+[   39438ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[   39646ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[   40716ms] [WARNING] Module not found: ./components/PricingCards @ about:srcdoc:118
+[   40721ms] Error: Minified React error #130; visit https://react.dev/errors/130?args[]=object&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at dn (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:30001)
+    at b (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:39328)
+    at T (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:40965)
+    at C (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:42946)
+    at https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:43388
+    at fl (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:67010)
+    at av (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:82453)
+    at qv (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:116269)
+    at $h (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115351)
+    at Jf (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115189)
+[   45235ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[   45238ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[   45259ms] [WARNING] Module not found: ./PricingCard @ about:srcdoc:118
+[   45264ms] Error: Minified React error #130; visit https://react.dev/errors/130?args[]=object&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at dn (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:30001)
+    at b (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:39328)
+    at T (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:40965)
+    at C (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:42946)
+    at https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:43388
+    at fl (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:67010)
+    at av (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:82453)
+    at qv (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:116269)
+    at $h (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115351)
+    at Jf (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115189)
+[   52045ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[   52047ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[   52065ms] [WARNING] Module not found: ./PricingCard @ about:srcdoc:119
+[   52066ms] Error: Minified React error #130; visit https://react.dev/errors/130?args[]=object&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at dn (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:30001)
+    at b (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:39328)
+    at T (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:40965)
+    at C (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:42946)
+    at https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:43388
+    at fl (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:67010)
+    at av (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:82453)
+    at qv (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:116269)
+    at $h (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115351)
+    at Jf (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115189)
+[   73837ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[   73849ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[   73873ms] [WARNING] Module not found: ./PricingCard @ about:srcdoc:119
+[   73874ms] Error: Minified React error #130; visit https://react.dev/errors/130?args[]=object&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at dn (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:30001)
+    at b (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:39328)
+    at T (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:40965)
+    at C (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:42946)
+    at https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:43388
+    at fl (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:67010)
+    at av (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:82453)
+    at qv (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:116269)
+    at $h (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115351)
+    at Jf (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115189)
+[   98201ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[   98211ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[   98240ms] [WARNING] Module not found: ./PricingCard @ about:srcdoc:119
+[   98240ms] Error: Minified React error #130; visit https://react.dev/errors/130?args[]=object&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at dn (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:30001)
+    at b (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:39328)
+    at T (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:40965)
+    at C (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:42946)
+    at https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:43388
+    at fl (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:67010)
+    at av (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:82453)
+    at qv (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:116269)
+    at $h (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115351)
+    at Jf (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115189)
+[  187969ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:20102
+[  215343ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  215353ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  215381ms] [WARNING] Module not found: ./components/ProfileCard @ about:srcdoc:118
+[  215382ms] Error: Minified React error #130; visit https://react.dev/errors/130?args[]=object&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at dn (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:30001)
+    at b (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:39328)
+    at T (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:40965)
+    at C (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:42946)
+    at https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:43388
+    at fl (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:67010)
+    at av (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:82453)
+    at qv (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:116269)
+    at $h (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115351)
+    at Jf (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115189)
+[  220648ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  220651ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  220675ms] [WARNING] Module not found: lucide-react @ about:srcdoc:119
+[  220677ms] Error: Minified React error #130; visit https://react.dev/errors/130?args[]=undefined&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at dn (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:30001)
+    at b (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:39328)
+    at T (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:40965)
+    at C (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:42946)
+    at https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:43388
+    at fl (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:67010)
+    at av (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:82453)
+    at qv (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:116269)
+    at $h (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115351)
+    at Jf (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115189)
+[  253849ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  253859ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  253882ms] [WARNING] Module not found: lucide-react @ about:srcdoc:119
+[  253883ms] Error: Minified React error #130; visit https://react.dev/errors/130?args[]=undefined&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at dn (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:30001)
+    at b (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:39328)
+    at T (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:40965)
+    at C (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:42946)
+    at https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:43388
+    at fl (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:67010)
+    at av (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:82453)
+    at qv (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:116269)
+    at $h (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115351)
+    at Jf (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115189)
+[  670567ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  670570ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  671160ms] [WARNING] Module not found: lucide-react @ about:srcdoc:134
+[  671161ms] Error: Minified React error #130; visit https://react.dev/errors/130?args[]=undefined&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at dn (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:30001)
+    at b (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:39328)
+    at T (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:40965)
+    at C (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:42946)
+    at https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:43388
+    at fl (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:67010)
+    at av (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:82453)
+    at qv (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:116269)
+    at $h (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115351)
+    at Jf (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115189)
+[  687391ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  687394ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  687413ms] [WARNING] Module not found: lucide-react @ about:srcdoc:134
+[  687422ms] Error: Minified React error #130; visit https://react.dev/errors/130?args[]=undefined&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at dn (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:30001)
+    at b (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:39328)
+    at T (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:40965)
+    at C (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:42946)
+    at https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:43388
+    at fl (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:67010)
+    at av (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:82453)
+    at qv (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:116269)
+    at $h (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115351)
+    at Jf (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115189)
+[  687415ms] [ERROR] Preview iframe error: {type: iframe-error, message: Uncaught Error: Minified React error #130; visit h… for full errors and additional helpful warnings., stack: Error: Minified React error #130; visit https://re….sh/react-dom@19.2.7/es2022/client.mjs:10:115189)} @ http://localhost:5173/src/components/preview/PreviewFrame.tsx?t=1783293685265:108
+[  771885ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  771889ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  771906ms] [WARNING] Module not found: lucide-react @ about:srcdoc:134
+[  771910ms] Error: Minified React error #130; visit https://react.dev/errors/130?args[]=undefined&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at dn (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:30001)
+    at b (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:39328)
+    at T (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:40965)
+    at C (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:42946)
+    at https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:43388
+    at fl (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:67010)
+    at av (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:82453)
+    at qv (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:116269)
+    at $h (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115351)
+    at Jf (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115189)
+[  771908ms] [ERROR] Preview iframe error: {type: iframe-error, message: Uncaught Error: Minified React error #130; visit h… for full errors and additional helpful warnings., stack: Error: Minified React error #130; visit https://re….sh/react-dom@19.2.7/es2022/client.mjs:10:115189)} @ http://localhost:5173/src/components/preview/PreviewFrame.tsx?t=1783293769658:108
+[  789552ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  789554ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  789573ms] [WARNING] Module not found: lucide-react @ about:srcdoc:134
+[  789576ms] Error: Minified React error #130; visit https://react.dev/errors/130?args[]=undefined&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at dn (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:30001)
+    at b (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:39328)
+    at T (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:40965)
+    at C (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:42946)
+    at https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:43388
+    at fl (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:67010)
+    at av (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:82453)
+    at qv (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:116269)
+    at $h (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115351)
+    at Jf (https://esm.sh/react-dom@19.2.7/es2022/client.mjs:10:115189)
+[  789576ms] [ERROR] Preview iframe error: {type: iframe-error, message: Uncaught Error: Minified React error #130; visit h… for full errors and additional helpful warnings., stack: Error: Minified React error #130; visit https://re….sh/react-dom@19.2.7/es2022/client.mjs:10:115189)} @ http://localhost:5173/src/components/preview/PreviewFrame.tsx?t=1783293787354:108
+[ 1230782ms] ReferenceError: useEffect is not defined
+    at FileSystemProvider (http://localhost:5173/src/contexts/FileSystemContext.tsx?t=1783294228722:31:3)
+    at Object.react_stack_bottom_frame (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:18509:20)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:5654:24)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:7475:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:8525:20)
+    at runWithFiberInDEV (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:997:72)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:12561:98)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:12424:43)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:12408:13)
+    at performWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:11827:37)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:13517:9)
+    at flushSyncWorkAcrossRoots_impl (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:13414:122)
+    at flushSyncWork$1 (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:12076:86)
+    at Object.scheduleRefresh (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:372:11)
+    at http://localhost:5173/@react-refresh:228:17
+    at Set.forEach (<anonymous>)
+    at performReactRefresh (http://localhost:5173/@react-refresh:217:26)
+    at http://localhost:5173/@react-refresh:608:3
+[ 1230782ms] [WARNING] %s
+
+%s
+ An error occurred in the <FileSystemProvider> component. Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=ff81804c:6965

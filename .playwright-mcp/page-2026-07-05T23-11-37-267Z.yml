@@ -1,0 +1,91 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - heading "UI Generator" [level=1] [ref=e9]
+        - button "Sign In" [ref=e11] [cursor=pointer]:
+          - img [ref=e12]
+          - text: Sign In
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - paragraph [ref=e56]: Create a pricing card component with three tiers
+          - generic [ref=e66]:
+            - paragraph [ref=e67]: "I'll create a pricing card component with three tiers for you. This will include an App.tsx entry point and a reusable PricingCard component.Now let me create the PricingCards component:Now let me create the individual PricingCard component:Perfect! I've created a complete pricing card component with three tiers. Here's what I've built:"
+            - heading "📋 Component Structure" [level=2] [ref=e68]
+            - heading "App.tsx" [level=3] [ref=e69]:
+              - strong [ref=e70]: App.tsx
+            - list [ref=e71]:
+              - listitem [ref=e72]: Entry point with a gradient background
+              - listitem [ref=e73]: Displays the title and description
+              - listitem [ref=e74]: Renders the PricingCards component
+            - heading "PricingCards.tsx (Container Component)" [level=3] [ref=e75]:
+              - strong [ref=e76]: PricingCards.tsx
+              - text: (Container Component)
+            - list [ref=e77]:
+              - listitem [ref=e78]: "Manages three pricing tiers: Starter, Professional, and Enterprise"
+              - listitem [ref=e79]:
+                - text: Includes a
+                - strong [ref=e80]: billing toggle
+                - text: (Monthly/Annual) with a 17% savings badge
+              - listitem [ref=e81]: Dynamically updates prices based on billing cycle
+              - listitem [ref=e82]: Responsive grid layout (3 columns on desktop)
+            - heading "PricingCard.tsx (Individual Card Component)" [level=3] [ref=e83]:
+              - strong [ref=e84]: PricingCard.tsx
+              - text: (Individual Card Component)
+            - list [ref=e85]:
+              - listitem [ref=e86]:
+                - text: "Displays each pricing tier with:"
+                - list [ref=e87]:
+                  - listitem [ref=e88]: Tier name and description
+                  - listitem [ref=e89]: Dynamic pricing display
+                  - listitem [ref=e90]: Feature list with checkmarks
+                  - listitem [ref=e91]: Call-to-action button
+                  - listitem [ref=e92]: "\"Most Popular\" badge for the Professional tier"
+                  - listitem [ref=e93]: Hover effects and animations
+            - heading "✨ Features" [level=2] [ref=e94]
+            - list [ref=e95]:
+              - listitem [ref=e96]:
+                - strong [ref=e97]: Responsive Design
+                - text: ": Works on mobile, tablet, and desktop"
+              - listitem [ref=e98]:
+                - strong [ref=e99]: Interactive Billing Toggle
+                - text: ": Switch between monthly and annual pricing"
+              - listitem [ref=e100]:
+                - strong [ref=e101]: Visual Hierarchy
+                - text: ": The \"Professional\" tier is highlighted as most popular"
+              - listitem [ref=e102]:
+                - strong [ref=e103]: Smooth Animations
+                - text: ": Transitions and hover effects"
+              - listitem [ref=e104]:
+                - strong [ref=e105]: TypeScript Support
+                - text: ": Fully typed interfaces for props and state"
+              - listitem [ref=e106]:
+                - strong [ref=e107]: Tailwind CSS
+                - text: ": Modern styling with gradients and shadows"
+              - listitem [ref=e108]:
+                - strong [ref=e109]: Lucide Icons
+                - text: ": Check marks for features"
+            - paragraph [ref=e110]:
+              - text: The component is production-ready and can be easily customized by modifying the pricing tiers data in the
+              - code [ref=e111]: PricingCards.tsx
+              - text: file!
+        - generic [ref=e22]:
+          - textbox "Describe a component..." [ref=e23]
+          - button [disabled] [ref=e24]:
+            - img [ref=e25]
+    - separator [ref=e28]
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - button "Preview" [active] [ref=e32] [cursor=pointer]
+        - button "Code" [ref=e33] [cursor=pointer]
+        - button "Gallery" [ref=e34] [cursor=pointer]:
+          - img [ref=e35]
+          - text: Gallery
+        - button "Save to Disk" [ref=e40] [cursor=pointer]:
+          - img [ref=e41]
+          - text: Save to Disk
+      - iframe [ref=e510]:
+        
+  - generic [ref=e508]:
+    - alert
+    - alert

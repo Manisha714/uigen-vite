@@ -1,0 +1,212 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - heading "UI Generator" [level=1] [ref=e9]
+        - button "Sign In" [ref=e11] [cursor=pointer]:
+          - img [ref=e12]
+          - text: Sign In
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - paragraph [ref=e56]: Create a pricing card component with three tiers
+          - generic [ref=e66]:
+            - paragraph [ref=e67]: "I'll create a pricing card component with three tiers for you. This will include an App.tsx entry point and a reusable PricingCard component.Now let me create the PricingCards component:Now let me create the individual PricingCard component:Perfect! I've created a complete pricing card component with three tiers. Here's what I've built:"
+            - heading "📋 Component Structure" [level=2] [ref=e68]
+            - heading "App.tsx" [level=3] [ref=e69]:
+              - strong [ref=e70]: App.tsx
+            - list [ref=e71]:
+              - listitem [ref=e72]: Entry point with a gradient background
+              - listitem [ref=e73]: Displays the title and description
+              - listitem [ref=e74]: Renders the PricingCards component
+            - heading "PricingCards.tsx (Container Component)" [level=3] [ref=e75]:
+              - strong [ref=e76]: PricingCards.tsx
+              - text: (Container Component)
+            - list [ref=e77]:
+              - listitem [ref=e78]: "Manages three pricing tiers: Starter, Professional, and Enterprise"
+              - listitem [ref=e79]:
+                - text: Includes a
+                - strong [ref=e80]: billing toggle
+                - text: (Monthly/Annual) with a 17% savings badge
+              - listitem [ref=e81]: Dynamically updates prices based on billing cycle
+              - listitem [ref=e82]: Responsive grid layout (3 columns on desktop)
+            - heading "PricingCard.tsx (Individual Card Component)" [level=3] [ref=e83]:
+              - strong [ref=e84]: PricingCard.tsx
+              - text: (Individual Card Component)
+            - list [ref=e85]:
+              - listitem [ref=e86]:
+                - text: "Displays each pricing tier with:"
+                - list [ref=e87]:
+                  - listitem [ref=e88]: Tier name and description
+                  - listitem [ref=e89]: Dynamic pricing display
+                  - listitem [ref=e90]: Feature list with checkmarks
+                  - listitem [ref=e91]: Call-to-action button
+                  - listitem [ref=e92]: "\"Most Popular\" badge for the Professional tier"
+                  - listitem [ref=e93]: Hover effects and animations
+            - heading "✨ Features" [level=2] [ref=e94]
+            - list [ref=e95]:
+              - listitem [ref=e96]:
+                - strong [ref=e97]: Responsive Design
+                - text: ": Works on mobile, tablet, and desktop"
+              - listitem [ref=e98]:
+                - strong [ref=e99]: Interactive Billing Toggle
+                - text: ": Switch between monthly and annual pricing"
+              - listitem [ref=e100]:
+                - strong [ref=e101]: Visual Hierarchy
+                - text: ": The \"Professional\" tier is highlighted as most popular"
+              - listitem [ref=e102]:
+                - strong [ref=e103]: Smooth Animations
+                - text: ": Transitions and hover effects"
+              - listitem [ref=e104]:
+                - strong [ref=e105]: TypeScript Support
+                - text: ": Fully typed interfaces for props and state"
+              - listitem [ref=e106]:
+                - strong [ref=e107]: Tailwind CSS
+                - text: ": Modern styling with gradients and shadows"
+              - listitem [ref=e108]:
+                - strong [ref=e109]: Lucide Icons
+                - text: ": Check marks for features"
+            - paragraph [ref=e110]:
+              - text: The component is production-ready and can be easily customized by modifying the pricing tiers data in the
+              - code [ref=e111]: PricingCards.tsx
+              - text: file!
+        - generic [ref=e22]:
+          - textbox "Describe a component..." [ref=e23]
+          - button [disabled] [ref=e24]:
+            - img [ref=e25]
+    - separator [ref=e28]
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - button "Preview" [ref=e32] [cursor=pointer]
+        - button "Code" [ref=e33] [cursor=pointer]
+        - button "Gallery" [ref=e34] [cursor=pointer]:
+          - img [ref=e35]
+          - text: Gallery
+        - button "Save to Disk" [ref=e40] [cursor=pointer]:
+          - img [ref=e41]
+          - text: Save to Disk
+      - generic [ref=e143]:
+        - generic [ref=e146]:
+          - generic [ref=e147]: Files
+          - button "App.tsx" [ref=e148] [cursor=pointer]:
+            - img [ref=e149]
+            - generic [ref=e152]: App.tsx
+          - generic [ref=e153]:
+            - generic [ref=e154]:
+              - img [ref=e155]
+              - generic [ref=e157]: components
+            - button "PricingCard.tsx" [ref=e158] [cursor=pointer]:
+              - img [ref=e159]
+              - generic [ref=e162]: PricingCard.tsx
+            - button "PricingCards.tsx" [active] [ref=e163] [cursor=pointer]:
+              - img [ref=e164]
+              - generic [ref=e167]: PricingCards.tsx
+        - separator [ref=e168]
+        - generic [ref=e171]:
+          - generic [ref=e172]: /components/PricingCards.tsx
+          - code [ref=e175]:
+            - generic [ref=e176]:
+              - textbox "Editor content" [ref=e177]
+              - textbox [ref=e178]
+              - generic [ref=e180]:
+                - generic [ref=e183]: "1"
+                - generic [ref=e185]: "2"
+                - generic [ref=e187]: "3"
+                - generic [ref=e188]:
+                  - generic [ref=e189] [cursor=pointer]: 
+                  - generic [ref=e190]: "4"
+                - generic [ref=e192]: "5"
+                - generic [ref=e194]: "6"
+                - generic [ref=e196]: "7"
+                - generic [ref=e198]: "8"
+                - generic [ref=e200]: "9"
+                - generic [ref=e202]: "10"
+                - generic [ref=e204]: "11"
+                - generic [ref=e206]: "12"
+                - generic [ref=e208]: "13"
+                - generic [ref=e210]: "14"
+                - generic [ref=e211]:
+                  - generic [ref=e212] [cursor=pointer]: 
+                  - generic [ref=e213]: "15"
+                - generic [ref=e215]: "16"
+                - generic [ref=e218]: "17"
+                - generic [ref=e219]:
+                  - generic [ref=e220] [cursor=pointer]: 
+                  - generic [ref=e221]: "18"
+                - generic [ref=e222]:
+                  - generic [ref=e223] [cursor=pointer]: 
+                  - generic [ref=e224]: "19"
+                - generic [ref=e226]: "20"
+                - generic [ref=e228]: "21"
+                - generic [ref=e230]: "22"
+                - generic [ref=e232]: "23"
+                - generic [ref=e234]:
+                  - generic [ref=e235] [cursor=pointer]: 
+                  - generic [ref=e236]: "24"
+                - generic [ref=e238]: "25"
+                - generic [ref=e240]: "26"
+                - generic [ref=e242]: "27"
+                - generic [ref=e244]: "28"
+                - generic [ref=e246]: "29"
+                - generic [ref=e248]: "30"
+                - generic [ref=e250]: "31"
+                - generic [ref=e252]: "32"
+                - generic [ref=e254]: "33"
+                - generic [ref=e256]: "34"
+                - generic [ref=e257]:
+                  - generic [ref=e258] [cursor=pointer]: 
+                  - generic [ref=e259]: "35"
+                - generic [ref=e261]: "36"
+                - generic [ref=e263]: "37"
+                - generic [ref=e265]: "38"
+                - generic [ref=e267]: "39"
+                - generic [ref=e269]:
+                  - generic [ref=e270] [cursor=pointer]: 
+                  - generic [ref=e271]: "40"
+                - generic [ref=e273]: "41"
+                - generic [ref=e275]: "42"
+              - generic [ref=e419]:
+                - generic [ref=e421]: "import React, { useState } from 'react';"
+                - generic [ref=e423]: import PricingCard from './PricingCard';
+                - generic [ref=e426]: "interface PricingTier {"
+                - generic [ref=e428]: "id: string;"
+                - generic [ref=e430]: "name: string;"
+                - generic [ref=e432]: "price: number;"
+                - generic [ref=e434]: "description: string;"
+                - generic [ref=e436]: "features: string[];"
+                - generic [ref=e438]: "isPopular: boolean;"
+                - generic [ref=e440]: "buttonText: string;"
+                - generic [ref=e442]: "buttonVariant: 'primary' | 'secondary';"
+                - generic [ref=e444]: "}"
+                - generic [ref=e447]: "const PricingCards: React.FC = () => {"
+                - generic [ref=e449]: const [billingCycle, setBillingCycle] =
+                - generic [ref=e451]: useState<'monthly' | 'annual'>('monthly');
+                - generic [ref=e454]: "const pricingTiers: PricingTier[] = ["
+                - generic [ref=e456]: "{"
+                - generic [ref=e458]: "id: 'starter',"
+                - generic [ref=e460]: "name: 'Starter',"
+                - generic [ref=e462]: "price: billingCycle === 'monthly' ? 29 : 290,"
+                - generic [ref=e464]: "description: 'Perfect for individuals and small"
+                - generic [ref=e466]: projects',
+                - generic [ref=e468]: "features: ["
+                - generic [ref=e470]: "'Up to 5 projects',"
+                - generic [ref=e472]: "'5GB storage',"
+                - generic [ref=e474]: "'Basic analytics',"
+                - generic [ref=e476]: "'Community support',"
+                - generic [ref=e478]: "'Monthly updates',"
+                - generic [ref=e480]: "],"
+                - generic [ref=e482]: "isPopular: false,"
+                - generic [ref=e484]: "buttonText: 'Get Started',"
+                - generic [ref=e486]: "buttonVariant: 'secondary',"
+                - generic [ref=e488]: "},"
+                - generic [ref=e490]: "{"
+                - generic [ref=e492]: "id: 'professional',"
+                - generic [ref=e494]: "name: 'Professional',"
+                - generic [ref=e496]: "price: billingCycle === 'monthly' ? 79 : 790,"
+                - generic [ref=e498]: "description: 'Ideal for growing teams and"
+                - generic [ref=e500]: businesses',
+                - generic [ref=e502]: "features: ["
+                - generic [ref=e504]: "'Unlimited projects',"
+                - generic [ref=e506]: "'100GB storage',"
+  - generic [ref=e508]:
+    - alert
+    - alert

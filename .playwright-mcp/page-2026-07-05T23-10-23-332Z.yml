@@ -1,0 +1,31 @@
+- generic [ref=e4]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - heading "UI Generator" [level=1] [ref=e9]
+      - button "Sign In" [ref=e11] [cursor=pointer]:
+        - img [ref=e12]
+        - text: Sign In
+    - generic [ref=e16]:
+      - generic [ref=e18]:
+        - paragraph [ref=e19]: Start building
+        - paragraph [ref=e20]: Describe a React component to generate
+      - generic [ref=e22]:
+        - textbox "Describe a component..." [active] [ref=e23]
+        - button [disabled] [ref=e24]:
+          - img [ref=e25]
+  - separator [ref=e28]
+  - generic [ref=e30]:
+    - generic [ref=e31]:
+      - button "Preview" [ref=e32] [cursor=pointer]
+      - button "Code" [ref=e33] [cursor=pointer]
+      - button "Gallery" [ref=e34] [cursor=pointer]:
+        - img [ref=e35]
+        - text: Gallery
+      - button "Save to Disk" [disabled] [ref=e40]:
+        - img [ref=e41]
+        - text: Save to Disk
+    - generic [ref=e47]:
+      - img [ref=e49]
+      - heading "Welcome to UI Generator" [level=3] [ref=e51]
+      - paragraph [ref=e52]: Start building React components with AI assistance
+      - paragraph [ref=e53]: Ask the AI to create your first component to see it live here

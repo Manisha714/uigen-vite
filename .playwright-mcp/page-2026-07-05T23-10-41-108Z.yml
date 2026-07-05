@@ -1,0 +1,29 @@
+- generic [ref=e4]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - heading "UI Generator" [level=1] [ref=e9]
+      - button "Sign In" [ref=e11] [cursor=pointer]:
+        - img [ref=e12]
+        - text: Sign In
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - paragraph [ref=e56]: Create a pricing card component with three tiers
+        - paragraph [ref=e60]: "I'll create a pricing card component with three tiers for you. This will include an App.tsx entry point and a reusable PricingCard component.Now let me create the PricingCards component:"
+        - generic [ref=e62]: Thinking...
+      - generic [ref=e22]:
+        - textbox "Describe a component..." [active] [ref=e23]
+        - button [disabled] [ref=e24]:
+          - img [ref=e25]
+  - separator [ref=e28]
+  - generic [ref=e30]:
+    - generic [ref=e31]:
+      - button "Preview" [ref=e32] [cursor=pointer]
+      - button "Code" [ref=e33] [cursor=pointer]
+      - button "Gallery" [ref=e34] [cursor=pointer]:
+        - img [ref=e35]
+        - text: Gallery
+      - button "Save to Disk" [ref=e40] [cursor=pointer]:
+        - img [ref=e41]
+        - text: Save to Disk
+    - iframe [ref=e63]:
+      
